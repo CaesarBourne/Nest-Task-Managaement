@@ -1,0 +1,5 @@
+server:
+  origin: http://caesartech-taskmanagement-frontend.s3-website-us-east-1.amazonaws.com/
+
+db:
+  synchronize: false
